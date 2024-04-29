@@ -1,7 +1,7 @@
 {
-    "name": "ＶＡＪＩＲＡ - ＭＤ - Ｖ4 WhatsApp Bot",
+    "name": "SHaYaN - AFriDi - Ｖ4 WhatsApp Bot",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
-    "repository": "https://github.com/vajirabot1/VAJIRA-MD",
+    "repository": "https://github.com/QXS871",
     "logo": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg",
     "keywords": [
         "nodejs",
@@ -39,17 +39,17 @@
         "OWNER-NAME": {
             "description": "put Your name herd",
             "required": true,
-            "value": "Vajira"      
+            "value": "shayan"      
         },
         "OWNER_NUMBER": {
             "description": "put your number here",
             "required": true,
-            "value": "94719199757"
+            "value": "923140529832"
         },
         "IMAGE": {
             "description": "Put bot image url here",
             "required": true,
-             "value": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"
+             "value": "https://telegra.ph/file/280c81e91cb2443e28a16.jpg"
         },
         "ANTI_BOT": {
             "description": "put true or false here",
