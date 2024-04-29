@@ -1,6 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＶＡＪＩＲＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=SHaYan+AFriDi+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
   
 <div align="center">
@@ -11,7 +11,7 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/VajiraTech">
+<a href="https://github.com/QXS-871">
     <img src="https://telegra.ph/file/280c81e91cb2443e28a16.jpg"  width="700px">
 </a>
 <hr>
@@ -26,7 +26,7 @@
 
 ## CONTACT OWNER
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94719199757)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/923140529832)
 
 ## JOIN SUPPORT GROUP
 
